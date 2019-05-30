@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Variational Inference](README.md)
+* [About me](README.md)
+* [Variational Inference](variational-inference.md)
 
