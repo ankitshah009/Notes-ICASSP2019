@@ -12,5 +12,13 @@ I am roughly dividing these notes into the following:
 * **Trends:** These are things that have potential to become paradigms in the future.
 * **Building Blocks:** These refer to things that form legos in our deep learning architectures. This category is subdivided into layers, blocks, modules and optimization for easier analysis \( inspired by 'groves' in Warren Buffet's Annual Report 2019.
 
+{% hint style="info" %}
+I am looking for co-editors. Feel free to contact me😀
+{% endhint %}
+
+ 
+
+
+
 
 
