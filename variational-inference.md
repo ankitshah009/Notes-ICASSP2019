@@ -24,5 +24,3 @@ Latent Stochastic variable models provide a mechanism to jointly train both the 
 
 Contributions at ICASSP can be mainly categorized into two classes: Improving the optimization procedure of VAEs and applications that exploit neat properties of VAEs.
 
-
-
