@@ -17,7 +17,7 @@ I am looking for co-editors. Feel free to contact me😀
 {% endhint %}
 
 {% hint style="danger" %}
- If you find your copyrights are violated, please contact me.
+ If you find your copyrights are violated, please let me know
 {% endhint %}
 
 
